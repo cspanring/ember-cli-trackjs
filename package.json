@@ -1,8 +1,10 @@
 {
   "name": "@cspanring/ember-cli-trackjs",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Use TrackJS with your fancy Ember CLI powered application",
-  "keywords": ["ember-addon"],
+  "keywords": [
+    "ember-addon"
+  ],
   "license": "MIT",
   "author": "James F. Herdman <james.herdman@gmail.com>",
   "bugs": "https://github.com/jherdman/ember-cli-trackjs/issues",
