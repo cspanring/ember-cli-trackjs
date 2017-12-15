@@ -8,14 +8,7 @@ const map = require('broccoli-stew').map;
 
 module.exports = {
   name: 'ember-cli-trackjs',
-  options: {
-    nodeAssets: {
-      trackjs: {
-        srcDir: './',
-        include: ['tracker.js']
-      }
-    }
-  },
+
   contentFor(type, config) {
     let trackOpts;
     let trackConfig;
